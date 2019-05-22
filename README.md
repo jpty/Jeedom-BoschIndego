@@ -2,7 +2,8 @@
 Script Jeedom pour les tondeuses robot Bosch Indego
 
 ## Remerciements
-A 
+- A [**fle**](www.jeedom.com/forum/memberlist.php?mode=viewprofile&u=1461) pour les scripts et le widget qui m'ont servis de base pour ce plugin.
+- A zazaz-de pour la description de l'API Bosch indego disponible [**ici**](github.com/zazaz-de/iot-device-bosch-indego-controller/blob/master/PROTOCOL.md) 
 
 ## Installation
 Créez un répertoire BoschIndego sous /var/www/html/plugins/script/core/ressources. Téléchargez et placez les fichiers indego.php, indego_doAction.php et indego_getState.php dans ce répertoire.
